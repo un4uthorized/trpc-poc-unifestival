@@ -8,7 +8,7 @@ create dev script `dev: tsx watch src/server.ts`
 
 install express `pnpm add express`
 
-install express types  `pnpm add -D @types/express
+install express types  `pnpm add -D @types/express`
 
 inside server.ts write:
 
